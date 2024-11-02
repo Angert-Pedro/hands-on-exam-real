@@ -22,3 +22,5 @@ function groupConsultantsByCompany(consultants) {
 
 const groupedConsultants = groupConsultantsByCompany(consultants);
 console.log(groupedConsultants);
+
+//Test
